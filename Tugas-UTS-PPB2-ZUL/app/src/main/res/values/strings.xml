@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DaftarTeman</string>
+    <string-array name="jabatan_spinner">
+        <item>Manager</item>
+        <item>Supervisor</item>
+        <item>Sekretaris</item>
+        <item>Staff</item>
+    </string-array>
+</resources>
+
